@@ -1,6 +1,4 @@
-h1{
-color:white;
-}
+
 <h1 align="left">Hi 👋! My name is Mehdi and I'm a Full-Stack developer, from Morocco</h1>
 
 ###
