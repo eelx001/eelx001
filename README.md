@@ -49,7 +49,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.instagram.com/eelx001/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -67,7 +67,7 @@
 ###
 
 <br clear="both">
-
+<div align="center">
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31mnajpbhaht66tufkwhh7ku3dre&cover_image=true&theme=default&show_offline=false&background_color=080808&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/eelx001)
-
+</div>
 ###
