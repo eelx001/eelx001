@@ -68,6 +68,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/eelx001/eelx001/output/snake.svg" alt="Snake animation" />
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mnajpbhaht66tufkwhh7ku3dre&unique={true|1|on|yes})
 
 ###
