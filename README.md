@@ -73,7 +73,7 @@
 
 <div align="center">
     <a href="https://github.com/eelx001">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31mnajpbhaht66tufkwhh7ku3dre&cover_image=true&theme=default&show_offline=false&background_color=080808&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Profile">
+        <img src="[https://spotify-github-profile.vercel.app/api/view?uid=31mnajpbhaht66tufkwhh7ku3dre&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Profile">
     </a>
 </div>
 
