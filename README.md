@@ -1,8 +1,7 @@
 ###
 
-<h1 align="left">Hi 👋! My name is Mehdi and I'm a Full-Stack developer, from Morocco</h1>
+<h1 align="left">Hi 👋! My name is Mehdi and I'm a Full-Stack developer</h1>
 
-<h2>My <a href="https://port20.vercel.app/" target="_">portfolio!</a></h2> 
 
 
 <div align="center">
