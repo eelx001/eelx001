@@ -68,8 +68,8 @@
 
 <div align="center">
     <a href="https://github.com/eelx001">
-     ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mnajpbhaht66tufkwhh7ku3dre)
-    </a>
+<!--      ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31mnajpbhaht66tufkwhh7ku3dre)
+    </a> -->
 </div>
 
 ###
